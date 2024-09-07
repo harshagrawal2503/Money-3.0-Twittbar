@@ -1,0 +1,4 @@
+node_modules
+.env
+README_secret.md
+dist
