@@ -2,6 +2,10 @@
 
 In the world of cryptocurrency, we are bombarded with many different kinds of wallets to use. 
 
+We use Hedera smart contract, Smart contracts on the Hedera Hashgraph network are central to the project, linking Twitter handles (usernames) to crypto wallet addresses.Strato.js is used to interact with Hedera smart contracts from the web application.
+Twittbar is deployed for sending transactions to the Hedera Testnet.
+Twittbar has the potential to use even more multiple services .
+
 We want to make transfer easy for people that have yet to onboard or has their crypto-wallet ready. At least say, they are not being pressured to create a wallet on the go while still retaining ownership of the fund that was transferred to them.
 
 The thought of using a smart contract and linking the Twitter **handle(username)** to a **wallet address** helps to make the transfer easy. At the same time, we also get the benefit of transferring funds using a recognizable name.
