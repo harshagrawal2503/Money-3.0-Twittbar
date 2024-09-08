@@ -1,0 +1,6 @@
+program: addition
+inputs:
+  num_1: 30
+  num_2: 10
+expected_outputs:
+  sum: 40
